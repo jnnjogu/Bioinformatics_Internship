@@ -20,4 +20,5 @@ _This section describes my path to becoming an excellent virologist in future_
 - Aim to do a project while at ICIPE
 - Aim to network and collaborate with my team members to come up with project ideas and look for Funding
 
-With all these ambitions I believe it will not be possible without my hardwork, due diligence and God's help.
+_With all these ambitions I believe it will not be possible without my hardwork as
+an imput, due diligence as my support and God's help as my foundation._ 
