@@ -22,4 +22,4 @@ _This section describes my path to becoming an excellent virologist in future_
 _____
 
 > **_"With all these ambitions I believe it will not be possible without my hardwork as
-an imput, due diligence as my support and God's help as my foundation..._ "**
+an input, due diligence as my support and God's help as my foundation..._ "**
