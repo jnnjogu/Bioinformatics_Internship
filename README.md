@@ -1,2 +1,2 @@
 # Bioinformatics_Internship
-My Bioinformatics journey at ICIPE
+_My Bioinformatics journey at ICIPE_
