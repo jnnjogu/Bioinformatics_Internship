@@ -19,3 +19,5 @@ _This section describes my path to becoming an excellent virologist in future_
 - Aim to look for jobs for the purpose of sharpening my skills
 - Aim to do a project while at ICIPE
 - Aim to network and collaborate with my team members to come up with project ideas and look for Funding
+
+With all these ambitions I believe it will not be possible without my hardwork, due diligence and God's help.
