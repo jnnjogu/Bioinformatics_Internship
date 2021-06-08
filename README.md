@@ -13,11 +13,16 @@ _________
 
 _This section describes my path to becoming an excellent virologist in future_
 
+## Short Term Goals
+
 - Aim to gain knowledge and skills that would contribute to this goal
 - Aim to finish the bioinformatics internship
-- Aim to look for opportunities to do masters and advance my education
-- Aim to look for jobs for the purpose of sharpening my skills
 - Aim to do a project while at ICIPE
+- Aim to look for opportunities to do masters and advance my education
+
+### Long Term Goals
+
+- Aim to look for jobs for the purpose of sharpening my skills
 - Aim to network and collaborate with my team members to come up with project ideas and look for Funding
 _____
 
