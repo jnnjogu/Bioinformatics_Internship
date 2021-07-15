@@ -40,5 +40,5 @@ _What have I already Achieved from 1st June 2021 ?_
 - I have been able to create a module and used it as a stand alone script on the terminal.
 - I have also started learning R and HPC
 - I was able to do a presentation on the Next generation Sequencing platforms here is a link to the work --> [Presentation on NGS Technology.pdf](https://github.com/jnnjogu/Bioinformatics_Internship/files/6822871/Presentation.on.NGS.Technology.pdf)
-=======
+
 
